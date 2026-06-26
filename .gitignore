@@ -1,7 +1,7 @@
 .venv/
+.venv_py39_backup/
 .env
 __pycache__/
 .ipynb_checkpoints/
 *.sqlite
 *.db
-
