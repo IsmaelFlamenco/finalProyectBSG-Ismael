@@ -1,0 +1,21 @@
+idproyecto,claveproducto,nombreproducto,fechaproyecto,cantidad,tipo_gasto,descripcion_gasto,monto_gasto,moneda,proveedor,fecha_gasto,estado_registro
+3232-0001,3232,Crece Feliz - Nueva Edicion,2026-04-10,12000,Edicion,Correccion de estilo y validacion editorial,54000,MXN,Editorial Norte,2026-03-28,cerrado
+3232-0001,3232,Crece Feliz - Nueva Edicion,2026-04-10,12000,Diseno,"Portada, interiores y ajustes de arte",28000,MXN,Estudio Pixel,2026-03-30,cerrado
+3232-0001,3232,Crece Feliz - Nueva Edicion,2026-04-10,12000,Imprenta,Impresion tiraje inicial,92000,MXN,Grafica Central,2026-04-02,cerrado
+3232-0001,3232,Crece Feliz - Nueva Edicion,2026-04-10,12000,Derechos,Licencia de contenido y autores,26000,MXN,Derechos MX,2026-03-26,cerrado
+3232-0001,3232,Crece Feliz - Nueva Edicion,2026-04-10,12000,Correccion,Revisión ortotipografica final,10000,MXN,Letras Limpias,2026-03-29,cerrado
+3232-0001,3232,Crece Feliz - Nueva Edicion,2026-04-10,12000,Distribucion,Almacenaje y salida a librerias,10000,MXN,Logistica Libro,2026-04-04,cerrado
+3232-0002,3232,Aprender Jugando - Tercera Edicion,2026-04-18,8000,Edicion,Actualizacion de contenidos educativos,30000,MXN,Editorial Norte,2026-04-03,cerrado
+3232-0002,3232,Aprender Jugando - Tercera Edicion,2026-04-18,8000,Diseno,Maquetacion y arte interior,18000,MXN,Estudio Pixel,2026-04-04,cerrado
+3232-0002,3232,Aprender Jugando - Tercera Edicion,2026-04-18,8000,Imprenta,Impresion y encuadernacion,70000,MXN,Grafica Central,2026-04-09,cerrado
+3232-0002,3232,Aprender Jugando - Tercera Edicion,2026-04-18,8000,Derechos,Renovacion de derechos de autor,16000,MXN,Derechos MX,2026-04-01,cerrado
+3232-0002,3232,Aprender Jugando - Tercera Edicion,2026-04-18,8000,Logistica,Transporte y entrega a bodegas,11500,MXN,Logistica Libro,2026-04-11,cerrado
+3232-0003,3232,Pequenos Exploradores - Reimpresion,2026-05-05,6000,Ajuste editorial,Correccion de erratas menores,12000,MXN,Editorial Norte,2026-04-18,cerrado
+3232-0003,3232,Pequenos Exploradores - Reimpresion,2026-05-05,6000,Imprenta,Reimpresion de 6000 ejemplares,42000,MXN,Grafica Central,2026-04-25,cerrado
+3232-0003,3232,Pequenos Exploradores - Reimpresion,2026-05-05,6000,Derechos,Extension de licencia,15000,MXN,Derechos MX,2026-04-20,cerrado
+3232-0003,3232,Pequenos Exploradores - Reimpresion,2026-05-05,6000,Distribucion,Entrega a puntos de venta,21000,MXN,Logistica Libro,2026-04-27,cerrado
+3232-0004,3232,Atlas Escolar - Edicion Especial,2026-05-20,5000,Edicion,Ajustes de contenido y validacion tecnica,18000,MXN,Editorial Norte,2026-05-01,cerrado
+3232-0004,3232,Atlas Escolar - Edicion Especial,2026-05-20,5000,Diseno,Mapa y diagramacion especial,12000,MXN,Estudio Pixel,2026-05-03,cerrado
+3232-0004,3232,Atlas Escolar - Edicion Especial,2026-05-20,5200,Imprenta,Impresion a color,68000,MXN,Grafica Central,2026-05-08,cerrado
+3232-0004,3232,Atlas Escolar - Edicion Especial,2026-05-20,5200,Papeleria,Papel couché y laminado,14000,MXN,Papeles Finos,2026-05-07,cerrado
+3232-0004,3232,Atlas Escolar - Edicion Especial,2026-05-20,5000,Distribucion,Envio a sucursales,8000,MXN,Logistica Libro,2026-05-11,cerrado
