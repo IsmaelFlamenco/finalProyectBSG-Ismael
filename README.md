@@ -1,8 +1,12 @@
 # Agente Inteligente de Costos y Precios Editoriales (PoC)
 
+
+
 Proof of Concept de un **agente de IA** que apoya al **analista de costos y gastos** de una editorial en la **determinación dinámica del costo y del precio de venta** de un material editorial, a partir de los gastos de producción registrados en la base de datos.
 
 > Proyecto final del curso **AI Project** · Ismael Flamenco
+
+> Link del Repo: https://github.com/IsmaelFlamenco/finalProyectBSG-Ismael
 
 ## El problema (Need)
 
